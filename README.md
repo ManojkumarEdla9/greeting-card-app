@@ -25,22 +25,22 @@ A Full-Stack Greeting Card Application using **Spring Boot (Backend)**, **React.
 ## 🌟 Frontend - React.js UI
 This is the main interface where users can **upload and view greeting cards**.
 
-![Frontend - Greeting Card UI](C:\Users\manoj\OneDrive\Pictures\Screenshots\Screenshot 2025-03-01 214457.png)
+![Frontend - Greeting Card UI]("C:\Users\manoj\OneDrive\Pictures\Screenshots\Screenshot 2025-03-01 214457.png")
 
 ---
 
 ## 🛠️ Backend - Spring Boot API
 The backend is built using **Spring Boot**, handling **file storage, database transactions, and REST API**.
 
-![Backend - Spring Boot API](C:\Users\manoj\OneDrive\Pictures\Screenshots\Screenshot 2025-03-01 022747.png)
+![Backend - Spring Boot API]("C:\Users\manoj\OneDrive\Pictures\Screenshots\Screenshot 2025-03-01 022747.png")
 
 ---
 
 ## 🔥 API Testing - Postman
 We used **Postman** to test the **REST APIs** for greeting card upload and retrieval.
 
-![Postman API Testing](C:\Users\manoj\OneDrive\Pictures\Screenshots\Screenshot 2025-03-01 023125.png)
-(C:\Users\manoj\OneDrive\Pictures\Screenshots\Screenshot 2025-03-01 023100.png)
+![Postman API Testing]("C:\Users\manoj\OneDrive\Pictures\Screenshots\Screenshot 2025-03-01 023125.png")
+("C:\Users\manoj\OneDrive\Pictures\Screenshots\Screenshot 2025-03-01 023100.png")
 
 ---
 
