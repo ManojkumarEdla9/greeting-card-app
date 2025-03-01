@@ -47,7 +47,7 @@ We used **Postman** to test the **REST APIs** for greeting card upload and retri
 ## 🗄️ H2 Database - Greeting Cards Table
 The **H2 Database Console** stores metadata for uploaded greeting cards, including **ID, name, occasion, and file path**.
 
-![H2 Database Console](images/h2-database.png)
+![H2 Database Console]("C:\Users\manoj\OneDrive\Pictures\Screenshots\Screenshot 2025-03-02 021450.png")
 
 ---
 
